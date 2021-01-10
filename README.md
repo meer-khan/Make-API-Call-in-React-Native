@@ -6,10 +6,10 @@
 
 # Components Used  
 1: Flat Lists  
-2: API Calling 
-3: Navigation 
-4: Drawer Screens 
-5: Passing data to different screens 
+2: API Calling  
+3: Navigation  
+4: Drawer Screens  
+5: Passing data to different screens   
 
 # License  
 
