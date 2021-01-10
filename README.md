@@ -1,17 +1,17 @@
 # Make API Call in React Native  
-# Features  
-1: Modern UI 
-2: Api Calls 
+##  Features  
+1: Modern UI  
+2: Api Calls  
 
 
-# Components Used  
+## Components Used  
 1: Flat Lists  
 2: API Calling  
 3: Navigation  
 4: Drawer Screens  
 5: Passing data to different screens   
 
-# License  
+## License  
 
 ## Setup Enviroment 
 
