@@ -29,7 +29,7 @@ what you have to do is to install the following
 5: Install EXPO application from playstore or Appstore and scan QR code generated on terminal of VSCode or in your web browser (after starting your application)
 Congratulations you are read to write code in react native 
 
-NOW , copy my code from APP.js file   
+:boom: NOW , copy my code from APP.js file   
 save the project your app will run on your mobile  
 
 ## https://reactnative.dev/docs/environment-setup   
